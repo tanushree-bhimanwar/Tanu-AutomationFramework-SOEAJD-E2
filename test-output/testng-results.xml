@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-01T20:09:55 IST" name="Default suite" finished-at="2023-08-01T20:09:55 IST" duration-ms="77">
+    <groups>
+    </groups>
+    <test started-at="2023-08-01T20:09:55 IST" name="Default test" finished-at="2023-08-01T20:09:55 IST" duration-ms="77">
+      <class name="Vtiger.practise.ReadDataFromCmdLineTest">
+        <test-method signature="read()[pri:0, instance:Vtiger.practise.ReadDataFromCmdLineTest@60099951]" started-at="2023-08-01T20:09:55 IST" name="read" finished-at="2023-08-01T20:09:55 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- read -->
+      </class> <!-- Vtiger.practise.ReadDataFromCmdLineTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
