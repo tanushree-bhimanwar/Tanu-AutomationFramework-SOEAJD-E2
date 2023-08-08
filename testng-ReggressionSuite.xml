@@ -6,6 +6,9 @@
 			<exclude name="ReggressionSuite"></exclude>
 		</run>
 	</groups>
+<listeners>
+	<listener class-name="Vtiger.GenericUtilities.ListenerImplementationClass"></listener>
+</listeners>
   <test thread-count="5" name="Test">
     <classes>
     
