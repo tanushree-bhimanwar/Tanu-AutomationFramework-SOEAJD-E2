@@ -7,6 +7,9 @@
 		</run>
 		
 	</groups>
+	<listeners>
+		<listener class-name="Vtiger.GenericUtilities.ListenerImplementationClass"></listener>
+	</listeners>
   <test thread-count="5" name="Test">
     <classes>
       <class name="VTiger_Contact_Tests.CreateContactWithOrgTestAssert"/>
